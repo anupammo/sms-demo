@@ -1,0 +1,22 @@
+CRITICAL - 2022-09-22 11:22:41 --> Undefined property: stdClass::$p_name
+in APPPATH/Views/student_page.php on line 35.
+ 1 APPPATH/Views/student_page.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$p_name', 'APPPATH/Views/student_page.php', 35)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/student_page.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('student_page', [], true)
+ 5 APPPATH/Controllers/Home.php(22): view('student_page')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Home->student()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-22 11:24:09 --> Undefined property: stdClass::$stud_name
+in APPPATH/Views/student_page.php on line 35.
+ 1 APPPATH/Views/student_page.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$stud_name', 'APPPATH/Views/student_page.php', 35)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/student_page.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('student_page', [], true)
+ 5 APPPATH/Controllers/Home.php(22): view('student_page')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Home->student()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()

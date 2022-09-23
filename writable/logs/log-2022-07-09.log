@@ -1,0 +1,117 @@
+CRITICAL - 2022-07-09 14:18:18 --> Undefined variable $db
+in APPPATH/Views/home_page.php on line 26.
+ 1 APPPATH/Views/home_page.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'APPPATH/Views/home_page.php', 26)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home_page.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('home_page', [], true)
+ 5 APPPATH/Controllers/Home.php(15): view('home_page')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 14:46:00 --> Undefined variable $db
+in APPPATH/Views/home_page.php on line 26.
+ 1 APPPATH/Views/home_page.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'APPPATH/Views/home_page.php', 26)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home_page.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('home_page', [], true)
+ 5 APPPATH/Controllers/Home.php(15): view('home_page')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 14:46:05 --> Undefined variable $db
+in APPPATH/Views/home_page.php on line 26.
+ 1 APPPATH/Views/home_page.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'APPPATH/Views/home_page.php', 26)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home_page.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('home_page', [], true)
+ 5 APPPATH/Controllers/Home.php(15): view('home_page')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 14:46:06 --> Undefined variable $db
+in APPPATH/Views/home_page.php on line 26.
+ 1 APPPATH/Views/home_page.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'APPPATH/Views/home_page.php', 26)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home_page.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('home_page', [], true)
+ 5 APPPATH/Controllers/Home.php(15): view('home_page')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 14:47:38 --> Undefined variable $db
+in APPPATH/Views/home_page.php on line 26.
+ 1 APPPATH/Views/home_page.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'APPPATH/Views/home_page.php', 26)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home_page.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('home_page', [], true)
+ 5 APPPATH/Controllers/Home.php(15): view('home_page')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 14:48:27 --> Undefined variable $db
+in APPPATH/Views/home_page.php on line 26.
+ 1 APPPATH/Views/home_page.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'APPPATH/Views/home_page.php', 26)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home_page.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('home_page', [], true)
+ 5 APPPATH/Controllers/Home.php(15): view('home_page')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 14:48:28 --> Undefined variable $db
+in APPPATH/Views/home_page.php on line 26.
+ 1 APPPATH/Views/home_page.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'APPPATH/Views/home_page.php', 26)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home_page.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('home_page', [], true)
+ 5 APPPATH/Controllers/Home.php(15): view('home_page')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 14:48:40 --> Unmatched '}'
+in APPPATH/Views/home_page.php on line 53.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('home_page', [], true)
+ 3 APPPATH/Controllers/Home.php(15): view('home_page')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 14:48:41 --> Unmatched '}'
+in APPPATH/Views/home_page.php on line 53.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('home_page', [], true)
+ 3 APPPATH/Controllers/Home.php(15): view('home_page')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 14:49:37 --> Undefined variable $db
+in APPPATH/Views/home_page.php on line 26.
+ 1 APPPATH/Views/home_page.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'APPPATH/Views/home_page.php', 26)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home_page.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('home_page', [], true)
+ 5 APPPATH/Controllers/Home.php(15): view('home_page')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 14:49:45 --> Undefined variable $db
+in APPPATH/Views/home_page.php on line 26.
+ 1 APPPATH/Views/home_page.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'APPPATH/Views/home_page.php', 26)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/home_page.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('home_page', [], true)
+ 5 APPPATH/Controllers/Home.php(15): view('home_page')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
